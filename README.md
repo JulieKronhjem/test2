@@ -4,4 +4,4 @@ Hello
 
 var name = "Julie"
 
-console.log(name);
+console.log("Goodbye" + name);
